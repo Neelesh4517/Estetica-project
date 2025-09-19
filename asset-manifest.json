@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Estetica-project/static/css/main.7dd30a37.css",
+    "main.js": "/Estetica-project/static/js/main.c990582e.js",
+    "static/js/453.fc93ca37.chunk.js": "/Estetica-project/static/js/453.fc93ca37.chunk.js",
+    "static/media/first.png": "/Estetica-project/static/media/first.f09847b7b9f4e8824d3e.png",
+    "static/media/second.png": "/Estetica-project/static/media/second.a11413e8317586a1bad0.png",
+    "static/media/logo.png": "/Estetica-project/static/media/logo.35c7902b88af22f9b087.png",
+    "static/media/six.png": "/Estetica-project/static/media/six.725acfcb547009e9fa1d.png",
+    "static/media/four.png": "/Estetica-project/static/media/four.5cc6a5958c8feba26521.png",
+    "static/media/five.png": "/Estetica-project/static/media/five.5d103ca5973c51453729.png",
+    "static/media/eight.png": "/Estetica-project/static/media/eight.8386d93b9db28bba1a58.png",
+    "static/media/third.png": "/Estetica-project/static/media/third.f6a04c44469e31000233.png",
+    "index.html": "/Estetica-project/index.html",
+    "main.7dd30a37.css.map": "/Estetica-project/static/css/main.7dd30a37.css.map",
+    "main.c990582e.js.map": "/Estetica-project/static/js/main.c990582e.js.map",
+    "453.fc93ca37.chunk.js.map": "/Estetica-project/static/js/453.fc93ca37.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dd30a37.css",
+    "static/js/main.c990582e.js"
+  ]
+}
