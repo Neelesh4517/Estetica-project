@@ -5,7 +5,7 @@ import ProductsPage from "./basicpage";
 const App: React.FC = () => {
   return (<>
 
-    <Router >
+    <Router basename="/Estetica-project">
       <Routes>
         <Route path="/" element={<ProductsPage />} />
       </Routes>
